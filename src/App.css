@@ -1,5 +1,4 @@
 .container-fluid span:hover{
-    display: block;
     background: #0067a3;
     cursor: pointer;
     transition: 0.5s;
